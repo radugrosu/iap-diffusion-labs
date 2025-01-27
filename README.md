@@ -8,4 +8,5 @@ This repository contains the labs for [*6.S184/6.S975: Generative AI with Stocha
 We would like to thank the following individuals for their invaluable feedback and suggestions:
 - Cameron Diao
 - Tally Portnoi
+- Andi Qu
 
