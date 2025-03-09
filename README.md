@@ -12,4 +12,5 @@ We would like to thank the following individuals for their invaluable feedback a
 - Cameron Diao
 - Tally Portnoi
 - Andi Qu
+- Ádám Burián
 
